@@ -18,7 +18,7 @@ I thrive on turning creative ideas into functional web experiences. My journey i
 Let's Connect:
 🌐 Portfolio (Coming Soon!)
 📧 sofiia.kryvushko@gmail.com
-💼 [LinkedIn]([https://www.github.com](https://www.linkedin.com/in/sofiia-kryvushko/) "LinkedIn profile")
+💼 ![LinkedIn](https://www.linkedin.com/in/sofiia-kryvushko/)
 Fun Fact:
 I enjoy exploring new technologies and languages, and I'm always up for a coding challenge!
 
