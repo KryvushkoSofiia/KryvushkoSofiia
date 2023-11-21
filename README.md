@@ -1,7 +1,7 @@
-### Hi👋 My name is Sofiia Kryvushko
-Web Developer and creative person
+# Hi👋 My name is Sofiia Kryvushko
+## Web Developer and creative person
 
-Technologies I use: 
+### Technologies I use: 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,7 +18,7 @@ I thrive on turning creative ideas into functional web experiences. My journey i
 Let's Connect:
 🌐 Portfolio (Coming Soon!)
 📧 sofiia.kryvushko@gmail.com
-💼 https://www.linkedin.com/in/sofiia-kryvushko/
+💼 [LinkedIn]([https://www.github.com](https://www.linkedin.com/in/sofiia-kryvushko/) "LinkedIn profile")
 Fun Fact:
 I enjoy exploring new technologies and languages, and I'm always up for a coding challenge!
 
