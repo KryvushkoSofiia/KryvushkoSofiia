@@ -12,10 +12,10 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-About Me:
+### About Me:
 I thrive on turning creative ideas into functional web experiences. My journey involves a love for HTML, CSS, and diving into the world of JavaScript. I'm equally at home crafting responsive UIs with React and managing state with Redux. On the backend, Flask and Express.js are my go-to tools for building robust server-side applications.
 
-Let's Connect:
+### Let's Connect:
 🌐 Portfolio (Coming Soon!)
 📧 sofiia.kryvushko@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/sofiia-kryvushko/)
