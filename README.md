@@ -16,11 +16,11 @@
 I thrive on turning creative ideas into functional web experiences. My journey involves a love for HTML, CSS, and diving into the world of JavaScript. I'm equally at home crafting responsive UIs with React and managing state with Redux. On the backend, Flask and Express.js are my go-to tools for building robust server-side applications.
 
 ### Let's Connect:
--🌐 Portfolio (Coming Soon!)
--📧 sofiia.kryvushko@gmail.com
--💼 [LinkedIn](https://www.linkedin.com/in/sofiia-kryvushko/)
--Fun Fact:
-I enjoy exploring new technologies and languages, and I'm always up for a coding challenge!
+- 🌐 Portfolio (Coming Soon!)  
+- 📧 sofiia.kryvushko@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sofiia-kryvushko/)  
+- Fun Fact:  
+  I enjoy exploring new technologies and languages, and I'm always up for a coding challenge!
 
 <!--
 **KryvushkoSofiia/KryvushkoSofiia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
