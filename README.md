@@ -22,7 +22,7 @@ I thrive on turning creative ideas into functional web experiences. My journey i
 -  Besides coding I've been drawing for as long as I can remember, adding a touch of creativity to everything I do.
 - 🔭 I’m currently working on [GalleryMuse](https://github.com/KryvushkoSofiia/GalleryMuse)
 ### Let's Connect:
-- 🌐 Portfolio (Coming Soon!)  
+- 🌐 [Portfolio](https://sofiiakryvushko-portfolio.netlify.app)
 - 📧 sofiia.kryvushko@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sofiia-kryvushko/)  
 - Fun Fact:  
