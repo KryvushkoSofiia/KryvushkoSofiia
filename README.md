@@ -19,7 +19,8 @@
 
 ### About Me:
 I thrive on turning creative ideas into functional web experiences. My journey involves a love for HTML, CSS, and diving into the world of JavaScript. I'm equally at home crafting responsive UIs with React and managing state with Redux. On the backend, Flask and Express.js are my go-to tools for building robust server-side applications.
-
+-  Besides coding I've been drawing for as long as I can remember, adding a touch of creativity to everything I do.
+- 🔭 I’m currently working on [GalleryMuse](https://github.com/KryvushkoSofiia/GalleryMuse)
 ### Let's Connect:
 - 🌐 Portfolio (Coming Soon!)  
 - 📧 sofiia.kryvushko@gmail.com  
